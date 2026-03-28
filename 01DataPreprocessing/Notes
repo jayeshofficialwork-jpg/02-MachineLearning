@@ -1,0 +1,8 @@
+Data Preprocess
+  Missing Data
+  Encoding Independent Variable
+  Encoding Dependent Variable
+Splitting Training and Test Set
+Feature Scaling
+  Normalization [0,1]
+  Standardization [-3,3]
